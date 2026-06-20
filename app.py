@@ -22,7 +22,7 @@ def api_users():
             {"id": 2, "name": "David"},
             {"id": 3, "name": "Sanju"},
             {"id": 4, "name": "Gajender"},
-            {"id": 5, "name" "Virat"}
+            {"id": 5, "name": "Virat"}
         ]
     }
 
