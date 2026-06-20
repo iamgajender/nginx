@@ -21,7 +21,8 @@ def api_users():
             {"id": 1, "name": "John"},
             {"id": 2, "name": "David"},
             {"id": 3, "name": "Sanju"},
-            {"id": 4, "name": "Gajender"}
+            {"id": 4, "name": "Gajender"},
+            {"id": 5, "name" "Virat"}
         ]
     }
 
